@@ -4,7 +4,7 @@
 
 <https://microsoft.github.io/DenseLandmarks/>
 
-[![Two Minute Papers Dense Landmarks](TwoMinutePapersLink.png)](https://www.youtube.com/watch?v=6-FESfXHF5s)
+[![Two Minute Papers Dense Landmarks](TwoMinutePapersLink1280.png)](https://www.youtube.com/watch?v=6-FESfXHF5s)
 
 
 ## Piano
